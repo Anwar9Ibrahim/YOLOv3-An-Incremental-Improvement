@@ -311,3 +311,6 @@ the last element is for the classes to make sure that we actually can say which 
 Normally here we can do cross entropy loss, or negative log likelyhood... but here they used a regression based loss
 """
 
+
+#edited
+
